@@ -4,8 +4,8 @@ name: Snake Game
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+      # Será atualizado a cada 12 horas.
+    - cron: "0 */12 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
