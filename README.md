@@ -34,6 +34,3 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
   
 </div>
-  
-![Years Badge](https://badges.pufler.dev/years/odirlei-assis)
-
