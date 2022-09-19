@@ -35,5 +35,5 @@ Here are some ideas to get you started:
   
 </div>
   
-![Years Badge](https://badges.pufler.dev/years/odirlei-assis
+![Years Badge](https://badges.pufler.dev/years/odirlei-assis)
 
