@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/odirlei-sabella/)
 <a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href = "https://www.linkedin.com/in/odirlei-sabella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
