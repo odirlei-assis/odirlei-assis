@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 <img width="70%" height="70%"  src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
 </div>
   
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/t0kLc0c.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+  
 <div>
   <h2>Certificações</h2>
   
