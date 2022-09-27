@@ -62,3 +62,13 @@ Here are some ideas to get you started:
   <img src=https://progress-bar.dev/65?title=ANGULAR  />
   <img src=https://progress-bar.dev/50?title=PHP  />
 </div>
+
+<div>
+
+## ⚡ Hobbies:
+<img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
+
+<img width="15%" height="15%"  src="https://i.pinimg.com/originals/3b/8e/7c/3b8e7c0a06be090367ca57ee7f1ca532.png"/>
+
+<img width="15%" height="15%"  src="https://static.goomer.app/stores/24214/products/mobile-menu/templates/29253/logo.png"/>
+</div>
