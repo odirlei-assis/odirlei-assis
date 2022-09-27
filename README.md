@@ -20,16 +20,18 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/odirlei-assis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odirlei-assis&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odirlei-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
   <h2>Certificações</h2>
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-  <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
-  <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+  <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+  <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
+  <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/">
+    <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+  </a>
 </div>
   
 ## 📫 Como chegar até mim:
@@ -39,10 +41,9 @@ Here are some ideas to get you started:
   
 <div>
   <h2>Linguagens e Frameworks</h2>
-  <img src=https://progress-bar.dev/70?title=HTML />
-  <img src=https://progress-bar.dev/60?title=CSS />
-  <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
-  <img src=https://progress-bar.dev/90?title=JAVA  />
+  <img src=https://progress-bar.dev/80?title=HTML />
+  <img src=https://progress-bar.dev/80?title=CSS />
+  <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
   <img src=https://progress-bar.dev/80?title=CSHARP  />
   <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
   <img src=https://progress-bar.dev/65?title=ANGULAR  />
