@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
-    <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-   content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+    <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:600/h:600/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
   </a>
 </div>
   
