@@ -38,17 +38,16 @@ Here are some ideas to get you started:
 <div>
   <h2>Certificações</h2>
   
-
+  <a href="https://www.credly.com/badges/1ebd9810-1c24-4f1a-9a0c-ae5535d0593d/public_url" target="blank">
+    <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+  </a>  
   
-  <img data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ebd9810-1c24-4f1a-9a0c-ae5535d0593d" data-share-badge-host="https://www.credly.com">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="289eaa31-cc4d-4734-97a8-69a25b2e37ce" data-share-badge-host="https://www.credly.com"</div>
-  
-  <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
+  <a href="https://www.credly.com/badges/289eaa31-cc4d-4734-97a8-69a25b2e37ce/public_url" target="blank">
     <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
   </a>
   
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
-    <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+    <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-   content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
   </a>
 </div>
   
