@@ -68,5 +68,7 @@ Here are some ideas to get you started:
 ## ⚡ Hobbies:
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
+<img width="15%" height="15%"  src="https://www.citypng.com/public/uploads/preview/-41606475248wa3ev5ayu1.png"/>
+  
 <img width="15%" height="15%"  src="https://static.goomer.app/stores/24214/products/mobile-menu/templates/29253/logo.png"/>
 </div>
