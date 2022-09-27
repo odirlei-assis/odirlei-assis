@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-## ⚡ Hobbies:
+## <h2>⚡ Hobbies:</h2>
   
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
