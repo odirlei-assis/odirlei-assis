@@ -1,4 +1,4 @@
-# Olá, me chamo Odirlei! Seja bem vindo ao meu perfil GitHub 👋
+# <h1>Olá, me chamo Odirlei! Seja bem vindo ao meu perfil GitHub 👋<h1>
 
 ## 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
 
@@ -24,9 +24,14 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odirlei-assis&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odirlei-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+  
+<div align="center">
+  <img width="50%" height="50%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
+</div>
+  
 <div>
   <h2>Certificações</h2>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ebd9810-1c24-4f1a-9a0c-ae5535d0593d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
   <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
@@ -47,7 +52,8 @@ Here are some ideas to get you started:
   <img src=https://progress-bar.dev/80?title=CSHARP  />
   <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
   <img src=https://progress-bar.dev/65?title=ANGULAR  />
- </div> 
+  <img src=https://progress-bar.dev/50?title=PHP  />
+</div> 
  
 <div align="center">
   
