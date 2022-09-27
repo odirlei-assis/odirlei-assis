@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odirlei-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<div align="center">
-  <img width="50%" height="50%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
-</div>
+
   
 <div>
   <h2>Certificações</h2>
