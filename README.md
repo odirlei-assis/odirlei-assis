@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odirlei-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-
+<div align="center">
+  <img width="50%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
+</div>
   
 <div>
   <h2>Certificações</h2>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ebd9810-1c24-4f1a-9a0c-ae5535d0593d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ebd9810-1c24-4f1a-9a0c-ae5535d0593d" data-share-badge-host="https://www.credly.com"</div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="289eaa31-cc4d-4734-97a8-69a25b2e37ce" data-share-badge-host="https://www.credly.com"</div>
   <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
     <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
@@ -55,7 +57,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   
-  ## Contador de visitantes  
+  ## Contador de visitas  
   ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
   
 </div>
