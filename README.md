@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ## ⚡ Hobbies:
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
-<img width="15%" height="15%"  src="https://www.callofduty.com/content/dam/atvi/callofduty/mobile/home/hero/cod-mobile-logo-v2.png"/>
+<img width="15%" height="15%"  src="https://www.clickjogos.com.br/includes/img/landing-page/call-of-duty-mobile-logo.png"/>
   
 <img width="15%" height="15%"  src="https://static.goomer.app/stores/24214/products/mobile-menu/templates/29253/logo.png"/>
 </div>
