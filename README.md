@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <h2>Certificações</h2>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ebd9810-1c24-4f1a-9a0c-ae5535d0593d" data-share-badge-host="https://www.credly.com"</div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="289eaa31-cc4d-4734-97a8-69a25b2e37ce" data-share-badge-host="https://www.credly.com"</div>
-  <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
     <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
   </a>
