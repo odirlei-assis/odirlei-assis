@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+  
+  ## Contador de visitas  
+  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
+  
+</div>
+  
 ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
 
 <div>
@@ -26,7 +32,7 @@ Here are some ideas to get you started:
 </div>
   
 <div align="center">
-  <img width="50%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
+  <img width="50%" src="[https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif](https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif)"/>
 </div>
   
 <div>
@@ -53,11 +59,4 @@ Here are some ideas to get you started:
   <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
   <img src=https://progress-bar.dev/65?title=ANGULAR  />
   <img src=https://progress-bar.dev/50?title=PHP  />
-</div> 
- 
-<div align="center">
-  
-  ## Contador de visitas  
-  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
-  
 </div>
