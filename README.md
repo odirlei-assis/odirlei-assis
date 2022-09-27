@@ -1,17 +1,18 @@
-# Olá, me chamo Odirlei ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Odirlei! Seja bem vindo ao meu perfil GitHub 👋
+
+## 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
 
 <!--
 **odirlei-assis/odirlei-assis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Como chegar até mim: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -24,13 +25,32 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odirlei-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+<div>
+  <h2>Certificações</h2>
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+  <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
+  <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+</div>
+  
+## 📫 Como chegar até mim:
 
 <a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/odirlei-sabella/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
+<div>
+  <h2>Linguagens e Frameworks</h2>
+  <img src=https://progress-bar.dev/70?title=HTML />
+  <img src=https://progress-bar.dev/60?title=CSS />
+  <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
+  <img src=https://progress-bar.dev/90?title=JAVA  />
+  <img src=https://progress-bar.dev/80?title=CSHARP  />
+  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
+  <img src=https://progress-bar.dev/65?title=ANGULAR  />
+ </div> 
+ 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
+  ## Contador de visitantes  
+  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
   
 </div>
