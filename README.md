@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 
 <div>
 ## ⚡ Hobbies:
+  
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
 <img width="15%" height="15%"  src="https://www.clickjogos.com.br/includes/img/landing-page/call-of-duty-mobile-logo.png"/>
