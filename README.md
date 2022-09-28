@@ -1,4 +1,4 @@
-# <h1>:trollface: Olá, me chamo Odirlei! Seja bem vindo ao meu perfil GitHub 👋<h1>
+# <h1>Olá, me chamo Odirlei! Seja bem vindo ao meu perfil GitHub 👋<h1>
 
 ### 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação :man_teacher: :man_technologist:
   <br>
