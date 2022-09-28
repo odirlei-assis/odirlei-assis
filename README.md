@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  ## Contador de visitas  
+<h2>Contador de visitas</h2> 
   ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
   
 </div>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </a>
 </div>
   
-## 📫 Como chegar até mim:
+<h2>📫 Como chegar até mim:</h2>
 
 <a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/odirlei-sabella/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-## <h2>⚡ Hobbies:</h2>
+<h2>⚡ Hobbies:</h2>
   
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
