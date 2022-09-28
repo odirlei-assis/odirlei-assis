@@ -23,11 +23,13 @@ Here are some ideas to get you started:
   
   ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
     
-</div>
+
     <br>
   
 
 ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
     <br>
 
   
