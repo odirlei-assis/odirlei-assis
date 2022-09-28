@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
   
 <div>
-  <h2>:school_satchel: :computer:Linguagens e Frameworks</h2>
+  <h2>:school_satchel: Linguagens e Frameworks</h2>
   <img src=https://progress-bar.dev/80?title=HTML />
   <img src=https://progress-bar.dev/80?title=CSS />
   <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     <br>
 
 <div>
-<h2>:sparkling_heart: :sparkles: Hobbies:</h2>
+<h2>:sparkling_heart: Hobbies:</h2>
   
 <img width="15%" height="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
