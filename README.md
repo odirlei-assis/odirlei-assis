@@ -81,7 +81,6 @@ Here are some ideas to get you started:
   <img src=https://progress-bar.dev/50?title=PHP  />
 </div>
     <br>
-      <br>
 
 <div>
 <h2>:sparkling_heart: Hobbies:</h2>
