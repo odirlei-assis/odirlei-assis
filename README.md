@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
   
 <div>
-  <h2>Certificações</h2>
+  <h2>:trophy: Certificações</h2>
   
   <a href="https://www.credly.com/badges/1ebd9810-1c24-4f1a-9a0c-ae5535d0593d/public_url" target="blank">
     <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
