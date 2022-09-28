@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/odirlei-sabella/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <br>
+      <br>
 
   
 <div>
@@ -80,6 +81,7 @@ Here are some ideas to get you started:
   <img src=https://progress-bar.dev/50?title=PHP  />
 </div>
     <br>
+      <br>
 
 <div>
 <h2>:sparkling_heart: Hobbies:</h2>
