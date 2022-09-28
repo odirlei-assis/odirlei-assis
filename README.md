@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img width="70%" height="70%"  src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+<img width="70%" height="70%"  src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
 </div>
   
 <div>
