@@ -53,12 +53,14 @@ Here are some ideas to get you started:
   </a>
 </div>
     <br>
+      <br>
 
   
 <div align="center">
 <img width="50%" height="50%"  src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
 </div>
     <br>
+      <br>
 
   
 <h2>📫 Como chegar até mim:</h2>
