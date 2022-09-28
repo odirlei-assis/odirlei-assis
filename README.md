@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
   <h2>Contador de visitas</h2> 
   ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
+  
 </div>
     <br>
   
