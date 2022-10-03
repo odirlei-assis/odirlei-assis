@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   
 <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
-<img width="15%" height="15%" src="https://www.clickjogos.com.br/includes/img/landing-page/call-of-duty-mobile-logo.png"/>
+<img width="15%" height="15%" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/79f56e5e3e0e999b3c139f225838d41f.png"/>
   
 <img width="15%" height="15%" src="https://static.goomer.app/stores/24214/products/mobile-menu/templates/29253/logo.png"/>
   
