@@ -94,9 +94,12 @@ Here are some ideas to get you started:
 
 <img width="15%" height="15%" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/79f56e5e3e0e999b3c139f225838d41f.png"/>
   
-<img width="15%" height="15%" src="https://static.goomer.app/stores/24214/products/mobile-menu/templates/29253/logo.png"/>
+<img width="15%" height="15%" src="https://cdn-icons-png.flaticon.com/512/566/566287.png"/>
   
 <img width="15%" height="15%" src="https://image.spreadshirtmedia.net/image-server/v1/designs/15116158,width=178,height=178,colors%5B0%5D=141754,colors%5B1%5D=D41C3B.png"/>
 
 <img width="15%" height="15%" src="https://minecraftapk.in/wp-content/uploads/2022/04/kindpng_1650608.png"/>
+  
+<img width="15%" height="15%" src="https://static.wikia.nocookie.net/logopedia/images/a/a2/WZ2_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221118011827"/>
+
 </div>
