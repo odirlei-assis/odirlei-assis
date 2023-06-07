@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 <div>
 <h2>:sparkling_heart: Hobbies:</h2>
   
-<img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
+<img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
 
-<img width="15%" height="15%" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/79f56e5e3e0e999b3c139f225838d41f.png"/>
+<img width="15%" height="15%" src="https://pbs.twimg.com/profile_images/1176916854738022400/Sg7hdyT0_400x400.png"/>
   
 <img width="15%" height="15%" src="https://cdn-icons-png.flaticon.com/512/566/566287.png"/>
   
@@ -100,6 +100,6 @@ Here are some ideas to get you started:
 
 <img width="15%" height="15%" src="https://minecraftapk.in/wp-content/uploads/2022/04/kindpng_1650608.png"/>
   
-<img width="15%" height="15%" src="https://static.wikia.nocookie.net/logopedia/images/a/a2/WZ2_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221118011827"/>
+<img width="15%" height="15%" src="https://static.wikia.nocookie.net/logopedia/images/f/f0/CoD_Modern_Warfare_II_%282022%29_logo_%28inverted%29.png/revision/latest/scale-to-width-down/250?cb=20220525030326"/>
 
 </div>
