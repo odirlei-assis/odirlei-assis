@@ -1,3 +1,5 @@
+<!-- Link para o site que cria o codigo para o texto com aparencia de digitação -->
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
 <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=500&size=36&duration=3000&pause=500&color=DEDEDE&width=870&height=70&lines=Ol%C3%A1%2C+me+chamo+Odirlei!+;Seja+bem+vindo+ao+meu+perfil+GitHub!%F0%9F%91%8B" alt="Typing SVG" />
 
 ### 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação :man_teacher: :man_technologist:
