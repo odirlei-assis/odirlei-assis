@@ -53,7 +53,10 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/be9b0580-ba0e-4a2b-b235-6a222c96e8b1/public_url" target="blank">
     <img width="15%" height="15%"  src="https://images.credly.com/size/220x220/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
   </a>
-  
+
+  <a href="https://www.credly.com/badges/45d68770-a7ba-47c2-9154-455d0870c6d2/public_url" target="blank">
+      <img width="15%" height="15%"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+  </a>  
   
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
     <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:600/h:600/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
