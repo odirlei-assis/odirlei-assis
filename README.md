@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 
   <a href="https://www.credly.com/badges/45d68770-a7ba-47c2-9154-455d0870c6d2/public_url" target="blank">
       <img width="15%" height="15%"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/f24a4f29-85a7-4ab6-bb11-b7e43be48d4b/public_url" target="blank">
+      <img width="15%" height="15%"  src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
   </a>  
   
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
