@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
   ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)  
 
-  ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
     <br>
@@ -86,13 +86,14 @@ Here are some ideas to get you started:
   
 <div>
   <h2>:school_satchel: Linguagens e Frameworks</h2>
-  <img src=https://progress-bar.dev/80?title=HTML />
+  <img src=https://progress-bar.dev/90?title=HTML />
   <img src=https://progress-bar.dev/80?title=CSS />
   <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
   <img src=https://progress-bar.dev/85?title=CSHARP  />
   <img src=https://progress-bar.dev/70?title=BOOTSTRAP  />
   <img src=https://progress-bar.dev/65?title=ANGULAR  />
   <img src=https://progress-bar.dev/70?title=PHP  />
+  <img src=https://progress-bar.dev/70?title=JAVA  />
 </div>
     <br>
 
@@ -107,7 +108,7 @@ Here are some ideas to get you started:
   
 <img width="15%" height="15%" src="https://image.spreadshirtmedia.net/image-server/v1/designs/15116158,width=178,height=178,colors%5B0%5D=141754,colors%5B1%5D=D41C3B.png"/>
 
-<img width="15%" height="15%" src="https://minecraftapk.in/wp-content/uploads/2022/04/kindpng_1650608.png"/>
+<!-- <img width="15%" height="15%" src="https://minecraftapk.in/wp-content/uploads/2022/04/kindpng_1650608.png"/> -->
   
 <img width="15%" height="15%" src="https://static.wikia.nocookie.net/logopedia/images/f/f0/CoD_Modern_Warfare_II_%282022%29_logo_%28inverted%29.png/revision/latest/scale-to-width-down/250?cb=20220525030326"/>
 
