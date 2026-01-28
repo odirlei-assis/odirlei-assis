@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </div>
     <br>
 
-<div>
+<div align="center">
 <h2>:sparkling_heart: Hobbies:</h2>
   
 <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
