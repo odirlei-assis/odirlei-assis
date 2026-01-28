@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <br>
 
   
-<div>
+<div align="center">
   <h2>:trophy: Certificações</h2>
   
   <a href="https://www.credly.com/badges/1ebd9810-1c24-4f1a-9a0c-ae5535d0593d/public_url" target="blank">
@@ -77,24 +77,28 @@ Here are some ideas to get you started:
     <br>
 
   
-<h2>:mailbox: Como chegar até mim:</h2>
-
-<a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/odirlei-sabella/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h2 align="center">:mailbox: Como chegar até mim:</h2>
+<div align="center">
+  <a href = "mailto:odirlei_sabella@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/odirlei-sabella/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
     <br>
       <br>
 
   
-<div>
-  <h2>:school_satchel: Linguagens e Frameworks</h2>
-  <img src=https://progress-bar.dev/90?title=HTML />
-  <img src=https://progress-bar.dev/80?title=CSS />
-  <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
-  <img src=https://progress-bar.dev/85?title=CSHARP  />
-  <img src=https://progress-bar.dev/70?title=BOOTSTRAP  />
-  <img src=https://progress-bar.dev/65?title=ANGULAR  />
-  <img src=https://progress-bar.dev/70?title=PHP  />
-  <img src=https://progress-bar.dev/70?title=JAVA  />
+<div align="center">
+  <h2>:school_satchel: Tecnologias</h2>
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,ts,react,arduino,cpp,cs,dotnet,nodejs,git,github" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,aws,azure" />
+    </a>
+  </p>
 </div>
     <br>
 
